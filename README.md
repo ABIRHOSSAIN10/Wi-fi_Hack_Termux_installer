@@ -20,7 +20,7 @@ $ python installer.py
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
-sudo python OneShot/oneshot.py -i wlan0 -K
+sudo python WIFI-HACK/oneshot.py -i wlan0 -K
 ```
 ### How to update OneShot
 To check for updates and update, run the following command:
