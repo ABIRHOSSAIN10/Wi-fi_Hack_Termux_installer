@@ -14,7 +14,7 @@ $ git clone https://github.com/ABIRHOSSAIN10/OneShot_Termux_installer
 
 $ cd OneShot_Termux_installer
 
-$ python Installer.py
+$ python installer.py
 
 ```
 ### Run
