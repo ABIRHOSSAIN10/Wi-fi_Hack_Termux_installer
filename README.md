@@ -10,9 +10,9 @@ $ pkg update && pkg upgrade
 
 $ pkg install git python
 
-$ git clone https://github.com/ABIRHOSSAIN10/OneShot_Termux_installer
+$ git clone https://github.com/ABIRHOSSAIN10/Wi-fi_Hack_Termux_installer
 
-$ cd OneShot_Termux_installer
+$ cd Wi-fi_Hack_Termux_installer
 
 $ python installer.py
 
